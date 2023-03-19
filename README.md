@@ -1,0 +1,1 @@
+Github repo to accumulate daily CodeWars.com challenges undertaken.
